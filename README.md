@@ -8,7 +8,7 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## ▸ Funcionalidades
+## Funcionalidades
 
 - Catálogo dinámico de productos cargados desde un archivo JSON
 - Gestión de carrito por peso (libra) o unidades con cálculo automático de subtotales
@@ -18,7 +18,7 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## ▸ Tecnologías
+## Tecnologías
 
 | | | |
 | :---: | :---: | :---: |
@@ -26,13 +26,14 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## ▸ Demo en vivo
+## Demo en vivo
 
-👉https://marcelab21.github.io/pedido-whatsapp/
+[Ver demostración del sistema]( https://marcelab21.github.io/pedido-whatsapp/)
+
 
 ---
 
-## ▸ Estructura del proyecto
+## Estructura del proyecto
 
 - `/index.html` — Estructura principal de la aplicación  
 - `/css/style.css` — Estilos, animaciones y diseño responsivo  
@@ -41,7 +42,7 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## ▸ Sobre el desarrollo
+## Sobre el desarrollo
 
 El principal desafío de este proyecto fue diseñar una experiencia de usuario (UX) clara y accesible para personas no familiarizadas con carritos de compra tradicionales.  
 Por ello, se optó por un flujo de interacción simple que culmina en WhatsApp, el canal de comunicación más utilizado por el público objetivo.
