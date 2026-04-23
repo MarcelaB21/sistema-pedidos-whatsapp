@@ -7,7 +7,15 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 > No se utilizan datos reales ni corresponde a un sistema en producción.
 
 ---
+## Problema resuelto
 
+Este software fue desarrollado para optimizar el proceso de toma de pedidos de un negocio local, que anteriormente se realizaba de forma manual mediante mensajería.
+
+La solución permitió organizar productos en un catálogo digital, automatizar cálculos de cantidades y subtotales, y generar solicitudes listas para enviar por WhatsApp.
+
+Con ello, se redujo el tiempo de atención, se mejoró la organización del proceso y se minimizaron errores en los pedidos.
+
+---
 ## Funcionalidades
 
 - Catálogo dinámico de productos cargados desde un archivo JSON
@@ -26,9 +34,9 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## Demo en vivo
+## Proyecto en vivo
 
-[Ver demostración del sistema]( https://marcelab21.github.io/pedido-whatsapp/)
+[Ver sitio web](https://avicola-yenner.netlify.app/)
 
 
 ---
@@ -42,9 +50,6 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ---
 
-## Sobre el desarrollo
 
-El principal desafío de este proyecto fue diseñar una experiencia de usuario (UX) clara y accesible para personas no familiarizadas con carritos de compra tradicionales.  
-Por ello, se optó por un flujo de interacción simple que culmina en WhatsApp, el canal de comunicación más utilizado por el público objetivo.
 
 
